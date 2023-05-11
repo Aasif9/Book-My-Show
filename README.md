@@ -2,9 +2,9 @@
 # ShowSnap
 
 * ShowSnap is a movie ticket booking system application.
-* Its a backend code application written using Javaa and Spring-Boot
-* It consists of different Layers like Controller layer, Service layer, Repository layer, DTO(Data Transfer Object)
-* These layers in the project increases its code maintanablity, understadability and readablity.
+* Its a backend application that is written using Java and Spring-Boot.
+* It consists of different layers like Controller layer, Service layer, Repository layer, DTO(Data Transfer Object).
+* These layers in the project increases its code maintainability, understandability and readability.
 
 
 
